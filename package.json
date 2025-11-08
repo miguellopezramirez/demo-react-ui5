@@ -12,6 +12,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@sap-ui/common-css": "^0.39.11",
     "@ui5/webcomponents": "^2.16.1",
     "@ui5/webcomponents-base": "^2.16.1",
     "@ui5/webcomponents-fiori": "^2.16.1",
